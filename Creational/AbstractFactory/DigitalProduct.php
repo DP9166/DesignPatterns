@@ -22,3 +22,4 @@ class DigitalProduct implements Product
         return $this->price;
     }
 }
+
